@@ -1,5 +1,5 @@
 {
-  "name": "mx.utxj.ti.dmi.api_videogame_180610",
+  "name": "mx.utxj.ti.dmi.api_videogame_200561",
   "version": "1.0.0",
   "description": "API REST para realizar las operaciones CRUD a una base de datos relacional, del proyecto de videojuego.",
   "main": "index.js",
