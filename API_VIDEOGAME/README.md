@@ -1,4 +1,4 @@
-# DMI_Practica8_200561
+# DMI_Practica15_200561
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -31,9 +31,9 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 8 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series. Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. |
-|  Fecha de Carga | 28/09/23  |
+| Nombre  |  Practica 15: Creacion de una Api Rest para la aplicacion del videojuego. |
+| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
+|  Fecha de Carga | 10/11/23  |
 
 &nbsp;
 &nbsp;
