@@ -14,7 +14,7 @@
     "Sequelize",
     "Express"
   ],
-  "author": "Fabricio Guzmán Vite",
+  "author": "Elisama Arturo Calva Moreno",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
